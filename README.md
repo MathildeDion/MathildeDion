@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MathildeDion
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP / Symfony
+- 🌱 I’m currently learning PHP / Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mathilde.dion@gmail.com
 
